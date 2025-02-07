@@ -1,7 +1,7 @@
 from gtts import gTTS # pip install gTTS
 import playsound # pip install playsound
 
-text_to_say = input("Digite um texto para ser convertido em audio: ")
+text_to_say = input("Digite um texto para ser convertido em áudio: ")
 
 language_option = input("Opções de idioma:\n" +
                         "1 - Português\n" +
